@@ -1,9 +1,9 @@
-# About me
+# Hi👋 Welcome to my page! My name is Kidd.
 
-Hi! Welcome to my GitHub account, my name is Kidd. I recently graduated from Temasek Polytechic with a Diploma in Big Data & Analytics with Merit.
+🇸🇬 I'm from Singapore.
+🏕️ Currently serving National Service (ORD @May 2, 2025).
+🏫 Graduated from Temasek Polytechnic with a Diploma in Big Data & Analytics with Merit.
+👨‍💻 My main languages are Python and JavaScript.
+📑 Self-studying and doing small projects whenever I'm free.
 
-I am interested in coding and programming in general. Currently, I am mainly using Python, however, I have some experience in other languages like HTML, CSS and JS in web development, and SQL and R for data analytics.
-
-This GitHub account is for educational purposes and to show some of the projects that I have done.
-
-I am always happy to learn, so feel free to drop an email or message for me if you see or have any problem, issue or advice about the stuff I do here! :)
+This GitHub account is for educational purposes and to showcase some of the projects that I have done. Feel free to email or message me if you see or have any problems, issues or advice about the stuff I do here! 😄
